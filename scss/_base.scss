@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none
 }
 
 body{
@@ -16,5 +17,9 @@ body{
     max-width: 1165px;
     padding: 0 20px;
     margin: 0 auto;
-    text-decoration: none;
+}
+button{
+    background: none;
+    border: none;
+    cursor: pointer;
 }
