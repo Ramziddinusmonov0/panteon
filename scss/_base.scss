@@ -4,12 +4,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    text-decoration: none
-}
-
-body{
-    @include font(20px, 21px, 500);
-    font-family: $ff;
 }
 
 .container{
