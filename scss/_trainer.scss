@@ -1,0 +1,18 @@
+.trainer {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ gap: 55px;
+ background-repeat: no-repeat;
+ background-image: url(../images/trainer-bg.png);
+ .swiper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28px;
+  padding: 100px 0;
+  .title{
+   color: $white-color;
+  }
+ }
+}
